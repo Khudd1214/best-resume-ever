@@ -84,3 +84,9 @@ Resumes are being exported with [Puppeteer](https://github.com/GoogleChrome/pupp
 [Electroshot](https://github.com/mixu/electroshot) uses Electron to generate PDF-files. Since Chrome does not export box-shadows properly, every resume uses [chrome-shadow-fixer](https://github.com/salomonelli/chrome-shadow-fixer).
 
 ## Contact
+To contact existing developers about improvements or bug reports, join our official [Discord](https://discord.gg/UBPHpJp3) channel.
+
+How to contribute to development
+1.	Use the Discord link posted above to join the channel. With default permissions, you will only be able to access the Introductions channel
+2.	Introduce yourself – your name, background, goals for the project, etc. After seeing your introduction, a mod will provide you access to development channels in 24-48 hours.
+3.	Welcome! We look forward to working with you.
