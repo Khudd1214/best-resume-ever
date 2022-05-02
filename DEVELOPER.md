@@ -8,6 +8,8 @@ Table of Contents
 
 [Export](#export)
 
+[Contact](#contact)
+
 <br><br>
 
 ## Templates
@@ -80,3 +82,5 @@ Resumes are being exported with [Puppeteer](https://github.com/GoogleChrome/pupp
 ### Box Shadows
 
 [Electroshot](https://github.com/mixu/electroshot) uses Electron to generate PDF-files. Since Chrome does not export box-shadows properly, every resume uses [chrome-shadow-fixer](https://github.com/salomonelli/chrome-shadow-fixer).
+
+## Contact
